@@ -1,0 +1,16 @@
+body{
+    background-color: cadetblue;
+    font-style: oblique;
+}
+#submit{
+    background-color: darkcyan;
+}
+#show{
+    background-color: lightseagreen;
+}
+#sorting{
+    background-color: mediumturquoise;
+}
+#search{
+    background-color: paleturquoise;
+}
